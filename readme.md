@@ -1,1 +1,1 @@
-Playing with Python and Django
+Playing with Python and Django.
